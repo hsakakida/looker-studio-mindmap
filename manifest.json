@@ -1,0 +1,17 @@
+{
+    "name": "mindmap_visualization",
+    "title": "Mindmap Visualization",
+    "description": "A custom mindmap visualization using D3.js",
+    "resources": [
+      {
+        "type": "javascript",
+        "url": "https://d3js.org/d3.v5.min.js"
+      },
+      {
+        "type": "javascript",
+        "url": "https://YOUR_GITHUB_PAGES_URL/custom_visualization.js"
+      }
+    ],
+    "iconUrl": "https://YOUR_GITHUB_PAGES_URL/icon.png",
+    "create": "createMindmapVisualization"
+  }
