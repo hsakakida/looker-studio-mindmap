@@ -9,9 +9,10 @@
       },
       {
         "type": "javascript",
-        "url": "https://YOUR_GITHUB_PAGES_URL/custom_visualization.js"
+        "url": "https://hsakakida.github.io/looker-studio-mindmap/custom_visualization.js"
       }
     ],
-    "iconUrl": "https://YOUR_GITHUB_PAGES_URL/icon.png",
+    "iconUrl": "https://hsakakida.github.io/looker-studio-mindmap/icon.png",
     "create": "createMindmapVisualization"
   }
+  
